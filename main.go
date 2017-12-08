@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"prog/service"
+	"github.com/azenakhi/prog/service"
 )
 
 func main() {

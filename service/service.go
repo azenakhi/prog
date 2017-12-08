@@ -1,7 +1,7 @@
 package service
 
 import (
-	"prog/model"
+	"github.com/azenakhi/prog/model"
 )
 
 func GetUser() string {
